@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests for TextTranslationScreen should render okay 1`] = `
+<Fragment>
+  <StatusBar
+    backgroundColor="black"
+    barStyle="light-content"
+  />
+  <RCTSafeAreaView
+    style={
+      {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <ScrollView
+      showsVerticalScrollIndicator={false}
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    >
+      <Section
+        testID="NamespacesSection"
+        title="NAMESPACES"
+      >
+        <Text>
+          welcome
+        </Text>
+        <Text>
+          ok
+        </Text>
+      </Section>
+      <Section
+        testID="ChangeLanguageSection"
+        title="CHANGE LANGUAGE"
+      >
+        <LanguageSelector />
+      </Section>
+      <Section
+        testID="InterpolationSection"
+        title="INTERPOLATION"
+      >
+        <Text>
+          accountSuspended
+        </Text>
+      </Section>
+      <Section
+        testID="PluralizationSection"
+        title="PLURALIZATION"
+      >
+        <Text>
+          autopsy
+        </Text>
+        <Text>
+          autopsy
+        </Text>
+        <Text>
+          autopsy
+        </Text>
+      </Section>
+      <Section
+        testID="ContextGenderSection"
+        title="CONTEXT: GENDER"
+      >
+        <Text
+          key="she"
+        >
+          loveThyself
+        </Text>
+        <Text
+          key="he"
+        >
+          loveThyself
+        </Text>
+        <Text
+          key="they"
+        >
+          loveThyself
+        </Text>
+        <Text
+          key="ze"
+        >
+          loveThyself
+        </Text>
+        <Text
+          key="ey"
+        >
+          loveThyself
+        </Text>
+      </Section>
+      <Section
+        title="CONTEXT: PLURALIZATION"
+      >
+        <Text>
+          autopsy
+        </Text>
+        <Text>
+          autopsy
+        </Text>
+        <Text>
+          autopsy
+        </Text>
+      </Section>
+    </ScrollView>
+  </RCTSafeAreaView>
+  <NextnPrevious
+    currentScreen={1}
+    testID="np_btn"
+  />
+</Fragment>
+`;

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1678429026516" clover="3.2.0">
+  <project timestamp="1678429026516" name="All files">
+    <metrics statements="83" coveredstatements="58" conditionals="25" coveredconditionals="2" methods="29" coveredmethods="18" elements="137" coveredelements="78" complexity="0" loc="83" ncloc="83" packages="7" files="24" classes="24"/>
+    <package name="components">
+      <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="NextnPrevious.tsx" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/components/NextnPrevious.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="28" count="10" type="stmt"/>
+        <line num="30" count="33" type="stmt"/>
+        <line num="32" count="33" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="35" count="33" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="38" count="33" type="stmt"/>
+        <line num="56" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="localization">
+      <metrics statements="21" coveredstatements="5" conditionals="17" coveredconditionals="0" methods="6" coveredmethods="1"/>
+      <file name="index.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/index.ts">
+        <metrics statements="21" coveredstatements="5" conditionals="17" coveredconditionals="0" methods="6" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="58" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="65" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="localization.ar">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="common.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/ar/common.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="homePage.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/ar/homePage.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/ar/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="languageSelector.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/ar/languageSelector.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="localization.en">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="common.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/en/common.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="homePage.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/en/homePage.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/en/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="languageSelector.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/en/languageSelector.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="localization.hi">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="common.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/hi/common.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="homePage.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/hi/homePage.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/hi/index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="languageSelector.ts" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/localization/hi/languageSelector.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="screens">
+      <metrics statements="38" coveredstatements="37" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="13"/>
+      <file name="ButtonScreen.tsx" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/screens/ButtonScreen.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+      </file>
+      <file name="Data.tsx" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/screens/Data.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+      <file name="FlatListScreen.tsx" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/screens/FlatListScreen.tsx">
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="21" count="30" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="40" count="5" type="stmt"/>
+        <line num="47" count="30" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+      </file>
+      <file name="ImageScreen.tsx" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/screens/ImageScreen.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="TextInputScreen.tsx" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/screens/TextInputScreen.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+      <file name="TextScreen.tsx" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/screens/TextScreen.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="TextTranslationScreen.tsx" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/screens/TextTranslationScreen.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="54" count="20" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="15" coveredstatements="7" conditionals="6" coveredconditionals="0" methods="6" coveredmethods="1"/>
+      <file name="languageSelector.tsx" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/utils/languageSelector.tsx">
+        <metrics statements="11" coveredstatements="4" conditionals="6" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+      </file>
+      <file name="renderWithNavigation.tsx" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/utils/renderWithNavigation.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="14" type="stmt"/>
+      </file>
+      <file name="section.tsx" path="/Users/pcs248/Documents/DevRN/Test cases demo/TestCasesDemo/src/utils/section.tsx">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

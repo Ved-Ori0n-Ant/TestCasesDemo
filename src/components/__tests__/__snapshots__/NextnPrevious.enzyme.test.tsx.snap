@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests for NextnPrevios screen should render okay 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#ddd",
+      "flexDirection": "row",
+      "justifyContent": "space-evenly",
+    }
+  }
+  testID="np_btn"
+>
+  <Button
+    disabled={true}
+    onPress={[Function]}
+    testID="Previous_btn"
+    title="Previous"
+  />
+  <Button
+    disabled={false}
+    onPress={[Function]}
+    testID="Next_btn"
+    title="Next"
+  />
+</View>
+`;
